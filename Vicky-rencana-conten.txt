@@ -3,6 +3,7 @@ RENCANA KONTEN VICKY
 - JavaScript
   *ES6
   *Framework JavaScript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlog
