@@ -3,7 +3,10 @@ RENCANA KONTEN VICKY
 - JavaScript
   *ES6
   *Framework JavaScript
+   ^ Vue
 - Struktur Data Dasar
 - PHP Framework
+  ^ Lacravel
 - Interview
 - Vlog
+- Python
