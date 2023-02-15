@@ -3,6 +3,8 @@ RENCANA KONTEN VICKY
 - JavaScript
   *ES6
   *Framework JavaScript
+- PHP Framework
+  ^ Laravel
    ^ Vue
    ^ React
 - Struktur Data Dasar
